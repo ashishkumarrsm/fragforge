@@ -1,0 +1,7 @@
+# Ignore a particular file
+.env
+config.js
+secret.json
+
+# Ignore the roadmap file 
+FragForge — Build Roadmap.docx
